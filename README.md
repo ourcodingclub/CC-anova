@@ -1,7 +1,7 @@
 ## One-way ANOVA from A to (XY)Z
 #### Coding Club tutorial by Erica Zaja 
 #### contact at ericazaja@gmail.com
-##### last updated: 03/01/2021
+##### last updated: 04/01/2021
 *****
 
 ## **Description**
